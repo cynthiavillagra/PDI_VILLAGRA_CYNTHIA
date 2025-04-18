@@ -1,69 +1,53 @@
 
-# 002 - Movimiento: Cronofotografía Digital
+# 📸 IFTS24 - Procesamiento Digital de Imágenes (PDI)
 
-Este proyecto corresponde a la segunda actividad de la materia **Técnicas de Procesamiento de Imágenes**, dictada por **Matías Barreto** en el IFTS N.º 24. El objetivo fue capturar el **movimiento de un objeto** a través de una secuencia de imágenes y reflexionar sobre su análisis visual y conceptual.
+Este repositorio contiene los notebooks, recursos y trabajos realizados para la materia **Procesamiento Digital de Imágenes**, correspondiente a la carrera de **Ciencia de Datos e Inteligencia Artificial** en el IFTS Nº 24.
 
----
-
-## 🎯 Objetivo del trabajo
-
-Capturar el desplazamiento de un objeto mediante una secuencia de fotos y observar cómo se descompone el movimiento en fases discretas. Esta técnica simula una **cronofotografía**, como las desarrolladas por **Étienne-Jules Marey** o **Eadweard Muybridge**, pero con medios digitales actuales.
+El objetivo de la materia es introducir los conceptos fundamentales del tratamiento digital de imágenes utilizando Python y librerías como **OpenCV**, **scikit-image**, **PIL** y **NumPy**. Los ejercicios incluyen desde la adquisición y manipulación básica hasta la segmentación, muestreo y cuantización.
 
 ---
 
-## 📸 Objeto elegido
+## 📁 Estructura del repositorio
 
-Se utilizó un **rollo de cinta adhesiva** como objeto en movimiento, rodando sobre una mesa. Se tomaron **9 imágenes consecutivas** en modo ráfaga desde el celular, manteniendo la cámara fija.
+Cada carpeta corresponde a una clase o unidad temática trabajada durante el curso:
 
----
-
-## 🖼️ Secuencia capturada
-
-Las imágenes `frame_0.jpg` a `frame_8.jpg` muestran el desplazamiento del rollo a través del campo visual. Cada una representa un instante diferente en su trayectoria.
-
----
-
-## 🔍 Análisis teórico
-
-### 📌 ¿Qué observamos?
-
-- El movimiento es **continuo en la realidad**, pero al descomponerlo en imágenes, se transforma en una **serie discreta de posiciones**.
-- Cada imagen nos da un fragmento del recorrido total, similar a cómo se **muestrea** una señal continua.
-- La comparación entre fotogramas permite **estimar velocidad** y observar cambios en la posición y rotación del objeto.
-
----
-
-## 🧠 Conceptos clave
-
-### 📷 Cronofotografía
-
-Técnica desarrollada por **Marey** para estudiar el movimiento descomponiéndolo en imágenes consecutivas. Hoy la replicamos digitalmente para el estudio del movimiento en visión artificial y análisis biomecánico.
-
-### 🧠 Inconsciente óptico (Walter Benjamin)
-
-La cámara revela detalles que **escapan a nuestra percepción** inmediata: trayectorias, fases del movimiento, microexpresiones o posiciones intermedias que no notaríamos sin detener el tiempo.
+| Carpeta | Contenido |
+|--------|-----------|
+| `001 Caja oscura` | Historia y fundamentos ópticos de la imagen: cámara oscura y percepción visual. |
+| `002 Movimiento` | Análisis del movimiento en imágenes, técnicas de captura y fotosecuencia. |
+| `003 Recorte - Detección de bordes - Desenfoque Gaussiano - Escala de grises` | Operaciones básicas de procesamiento: recortes, filtros, detección de bordes y conversión a grises. |
+| `004 Downsampling. Posterización. Histograma` | Técnicas de reducción de resolución, cuantización de niveles y análisis de histograma. |
+| `005 Color` | Representación del color en imágenes: espacios RGB, HSV, mapas de color. |
+| `006 Muestreo y cuantización` | Reducción de tamaño y niveles de gris. Impacto visual de la compresión. |
+| `007 Segmentación simple` | Técnicas de segmentación básicas por color, umbral y forma. |
+| `008 Librería PIL - Interpolación` | Uso de la librería PIL para operaciones como escalado y transformación de imágenes. |
+| `009 Librerías Scikit-image y Scipy` | Ejemplos con funciones de alto nivel para preprocesamiento y análisis. |
+| `010 Muestreo y cuantización` | Revisión y profundización del tema con nuevos ejemplos prácticos. |
+| `011 Trabajo Integrador` | Proyecto final integrador del cuatrimestre. |
+| `012 Exposición oral` | Recursos y materiales para la exposición final. |
 
 ---
 
-## 💡 Aplicaciones modernas
+## 🛠️ Herramientas utilizadas
 
-- **Captura de movimiento (Motion Capture)** en cine y videojuegos.
-- **Análisis biomecánico** en medicina y deporte.
-- **Seguimiento de objetos** en procesamiento de imágenes.
-- **Reconstrucción de trayectorias** y predicción de movimiento en IA.
-
----
-
-## 👤 Autoría
-
-- Autor/a: Cynthia Villagra
-- Año: 2025  
-- Materia: Técnicas de Procesamiento de Imágenes  
-- Profesor: Matías Barreto  
-- Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
+- Python 3.x
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Pillow (PIL)](https://pillow.readthedocs.io/)
+- [scikit-image](https://scikit-image.org/)
+- [OpenCV](https://opencv.org/)
+- Google Colab
 
 ---
 
-## 📄 Licencia
+## 📚 Créditos
 
-Este proyecto se encuentra bajo la licencia [MIT](https://opensource.org/licenses/MIT).
+- Docente: Prof. Matías Barreto  
+- Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial  
+- Instituto: IFTS N° 24 - CABA
+
+---
+
+## 🔗 Enlace al repositorio
+
+[https://github.com/cynthiavillagra/IFTS24_PDI](https://github.com/cynthiavillagra/IFTS24_PDI)
