@@ -1,4 +1,14 @@
 
+## 👤 Autoría
+
+- Autor/a: Cynthia Villagra
+- Año: 2025  
+- Materia: Técnicas de Procesamiento de Imágenes  
+- Profesor: Matías Barreto  
+- Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
+
+---
+
 # 👁️ De la luz a la imagen digital
 
 Este trabajo práctico aborda el recorrido que realiza la **luz** desde que incide en el objeto hasta que se convierte en una imagen **digital** en una computadora. Se analizan también las formas en las que distintas librerías de Python representan y procesan esa imagen.

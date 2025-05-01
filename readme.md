@@ -41,7 +41,7 @@ Cada carpeta corresponde a una clase o unidad temática trabajada durante el cur
 ---
 
 ## 📚 Créditos
-
+- Alumna: Cynthia Marcela Villagra
 - Docente: Prof. Matías Barreto  
 - Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial  
 - Instituto: IFTS N° 24 - CABA

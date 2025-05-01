@@ -1,3 +1,13 @@
+## 👤 Autoría
+
+- Autor/a: Cynthia Villagra
+- Año: 2025  
+- Materia: Técnicas de Procesamiento de Imágenes  
+- Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
+- Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
+
+---
+
 # 001 - Caja Oscura
 
 Este trabajo corresponde al primer módulo práctico de la materia **Técnicas de Procesamiento de Imágenes**, dictada por el profesor **Matías Barreto** en el IFTS N.º 24, carrera **Ciencia de Datos e Inteligencia Artificial**, año 2025.
@@ -63,16 +73,6 @@ Aunque no es digital, la imagen que se forma está compuesta por una **cantidad 
 ### 💡 Intensidad Lumínica y Representación Digital
 
 La **intensidad de la luz en cada punto** es la base de toda representación digital. Esa luz, al ser capturada por sensores, se convierte en **niveles de gris o color**, que forman la imagen digital.
-
----
-
-## 👤 Autoría
-
-- Autor/a: Cynthia Villagra
-- Año: 2025  
-- Materia: Técnicas de Procesamiento de Imágenes  
-- Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
-- Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
 
 ---
 

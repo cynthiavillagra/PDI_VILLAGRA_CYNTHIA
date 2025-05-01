@@ -1,3 +1,14 @@
+
+## 👤 Autoría
+
+- Autor/a: Cynthia Villagra
+- Año: 2025  
+- Materia: Técnicas de Procesamiento de Imágenes  
+- Profesor: Matías Barreto  
+- Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
+
+---
+
 # 005 Color
 
 Este notebook forma parte de la materia **Técnicas de Procesamiento de Imágenes** (IFTS N.º 24 – 2025), dictada por el profesor **Matías Barreto**.  
@@ -23,16 +34,6 @@ Fue enriquecido con comentarios, ejemplos y teoría obtenida con la ayuda de **C
 1. Abrí el archivo en Google Colab o Jupyter Notebook.
 2. Ejecutá las celdas en orden.
 3. Leé los comentarios y modificá el código para experimentar.
-
----
-
-## 👤 Autoría
-
-- Autor/a: [Tu Nombre]  
-- Año: 2025  
-- Materia: Técnicas de Procesamiento de Imágenes  
-- Profesor: Matías Barreto  
-- Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
 
 ---
 

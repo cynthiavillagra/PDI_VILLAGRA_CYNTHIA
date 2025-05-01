@@ -1,4 +1,15 @@
 
+
+## 👤 Autoría
+
+- Autor/a: Cynthia Villagra
+- Año: 2025  
+- Materia: Técnicas de Procesamiento de Imágenes  
+- Profesor: Matías Barreto  
+- Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
+
+---
+
 # 002 - Movimiento: Cronofotografía Digital
 
 Este proyecto corresponde a la segunda actividad de la materia **Técnicas de Procesamiento de Imágenes**, dictada por **Matías Barreto** en el IFTS N.º 24. El objetivo fue capturar el **movimiento de un objeto** a través de una secuencia de imágenes y reflexionar sobre su análisis visual y conceptual.
@@ -51,16 +62,6 @@ La cámara revela detalles que **escapan a nuestra percepción** inmediata: tray
 - **Análisis biomecánico** en medicina y deporte.
 - **Seguimiento de objetos** en procesamiento de imágenes.
 - **Reconstrucción de trayectorias** y predicción de movimiento en IA.
-
----
-
-## 👤 Autoría
-
-- Autor/a: Cynthia Villagra
-- Año: 2025  
-- Materia: Técnicas de Procesamiento de Imágenes  
-- Profesor: Matías Barreto  
-- Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
 
 ---
 
