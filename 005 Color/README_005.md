@@ -1,7 +1,7 @@
 
 ## 👤 Autoría
 
-- Autor/a: Cynthia Villagra
+- Alumna: Cynthia Villagra
 - Año: 2025  
 - Materia: Técnicas de Procesamiento de Imágenes  
 - Profesor: Matías Barreto  
