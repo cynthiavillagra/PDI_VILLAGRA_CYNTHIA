@@ -10,12 +10,13 @@ Enlace al notebook principal: https://github.com/cynthiavillagra/IFTS24_PDI/blob
 - Docente: Prof. Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
 - Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial  
 - Instituto: IFTS N° 24 - CABA
+- Materia: Técnicas de Procesamiento Digital de Imágenes (2025)
 
 ---
 
 # 🧪 Procesamiento de Imágenes - Laboratorio Integrador 2
 
-Este proyecto práctico integra los contenidos vistos en clase sobre procesamiento digital de imágenes. A partir de una imagen seleccionada, se aplican técnicas como mejora de brillo y contraste, ecualización del histograma, segmentación por color y detección de objetos mediante contornos.
+Este proyecto práctico integra los contenidos vistos en clase sobre Técnicas de Procesamiento Digital de Imágenes (2025). A partir de una imagen seleccionada, se aplican técnicas como mejora de brillo y contraste, ecualización del histograma, segmentación por color y detección de objetos mediante contornos.
 
 ---
 

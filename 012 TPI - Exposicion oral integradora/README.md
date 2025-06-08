@@ -10,7 +10,7 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 
 - Autor/a: Cynthia Villagra
 - Año: 2025  
-- Materia: Técnicas de Procesamiento de Imágenes  
+- Materia: Técnicas de Procesamiento de Imágenes (2025)  
 - Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
 - Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
 

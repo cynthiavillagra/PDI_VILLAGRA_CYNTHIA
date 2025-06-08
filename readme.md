@@ -2,7 +2,7 @@
 ## 📚 Créditos
 - Alumna: Cynthia Marcela Villagra
 - Docente: Prof. Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
-- Materia: Técnicas de Procesamiento Digital de Imágenes  
+- Materia: Técnicas de Procesamiento Digital de Imágenes (2025)  
 - Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial  
 - Instituto: IFTS N° 24 - CABA
 
@@ -24,7 +24,7 @@ Durante el cursado, resultaron especialmente interesantes:
 
 # 📸 IFTS24 - Procesamiento Digital de Imágenes (PDI)
 
-Este repositorio reúne los trabajos prácticos, notebooks y recursos desarrollados para la materia **Técnicas de Procesamiento Digital de Imágenes**. Forma parte de la carrera de **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** en el IFTS Nº 24.
+Este repositorio reúne los trabajos prácticos, notebooks y recursos desarrollados para la materia **Técnicas de Procesamiento Digital de Imágenes (2025)**. Forma parte de la carrera de **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** en el IFTS Nº 24.
 
 La materia aborda el análisis, manipulación y procesamiento de imágenes digitales utilizando Python y librerías especializadas como **OpenCV**, **scikit-image**, **Pillow (PIL)** y **NumPy**. Se exploran técnicas fundamentales y avanzadas, incluyendo restauración, segmentación, morfología, redes neuronales y aplicaciones interactivas con Gradio. El enfoque es tanto teórico como práctico, promoviendo la experimentación y la resolución de problemas reales mediante el uso de imágenes.
 

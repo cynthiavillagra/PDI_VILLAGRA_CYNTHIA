@@ -8,7 +8,7 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 # TP 15: Operaciones Morfológicas
 
 **Alumno/a:** Cynthia Marcela Villagra  
-**Materia:** Técnicas de Procesamiento Digital de Imágenes  
+**Materia:** Técnicas de Procesamiento Digital de Imágenes (2025)  
 **Profesor:** Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 **Breve Descripción:**

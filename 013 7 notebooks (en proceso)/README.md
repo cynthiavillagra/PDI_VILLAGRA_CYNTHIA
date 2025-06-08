@@ -1,5 +1,5 @@
 # Descripción del contenido de la carpeta
-Esta carpeta contiene varios notebooks en proceso sobre técnicas avanzadas de procesamiento digital de imágenes: OpenCV, template matching, recorte y cambio de perspectiva, figuras geométricas, detección de objetos y mejora de color.
+Esta carpeta contiene varios notebooks en proceso sobre técnicas avanzadas de procesamiento digital de imágenes (2025): OpenCV, template matching, recorte y cambio de perspectiva, figuras geométricas, detección de objetos y mejora de color.
 
 Enlace a los notebooks principales:
 - https://github.com/cynthiavillagra/IFTS24_PDI/blob/main/013%207%20notebooks%20(en%20proceso)/13%20Copia%20de%20001_open_cv.ipynb
