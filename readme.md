@@ -81,9 +81,15 @@ Cada carpeta corresponde a una clase o unidad temática trabajada durante el cur
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
 - [PyTorch](https://pytorch.org/)
+- [torchvision](https://pytorch.org/vision/stable/index.html)
+- [SciPy](https://scipy.org/)
+- [imageio](https://imageio.github.io/)
+- [pandas](https://pandas.pydata.org/)
 - [Gradio](https://gradio.app/)
 - [Stable Diffusion](https://stability.ai/)
-- Google Colab
+- [Google Colab](https://research.google.com/colaboratory/)
+- [google.colab.patches (cv2_imshow)](https://research.google.com/colaboratory/)
+- wget (para descarga de imágenes en notebooks)
 
 ---
 
