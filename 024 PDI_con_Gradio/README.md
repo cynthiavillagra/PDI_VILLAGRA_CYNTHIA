@@ -9,7 +9,7 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 
 **Alumno/a:** Cynthia Marcela Villagra  
 **Materia:** Técnicas de Procesamiento Digital de Imágenes  
-**Profesor:** Matías Barreto
+**Profesor:** Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 **Breve Descripción:**
 Aplicación de técnicas de procesamiento digital de imágenes integradas en una interfaz interactiva usando Gradio. Se permite al usuario cargar imágenes y observar los resultados de diferentes transformaciones y análisis.

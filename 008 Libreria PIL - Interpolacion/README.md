@@ -1,7 +1,7 @@
 # Descripción del contenido de la carpeta
 En este TP se introdujo la biblioteca PIL (Pillow) para la manipulación básica de imágenes: lectura, guardado, cambio de formato, rotación, cambio de tamaño, recorte e interpolación.
 
-Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/008%20Libreria%20PIL%20-%20Interpolacion/09_001_img_uno_comentado_con_teoria.ipynb
+Enlace al notebook principal: https://github.com/cynthiavillagra/IFTS24_PDI/blob/main/008%20Libreria%20PIL%20-%20Interpolacion/09_001_img_uno_comentado_con_teoria.ipynb
 
 Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
@@ -10,14 +10,14 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 - Autor/a: Cynthia Villagra
 - Año: 2025  
 - Materia: Técnicas de Procesamiento de Imágenes  
-- Profesor: Matías Barreto  
+- Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
 - Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
 
 ---
 
 # 008 Libreria PIL 
 
-Este notebook forma parte de la materia **Técnicas de Procesamiento de Imágenes** (IFTS N.º 24 – 2025), dictada por el profesor **Matías Barreto**.  
+Este notebook forma parte de la materia **Técnicas de Procesamiento de Imágenes** (IFTS N.º 24 – 2025), dictada por el profesor **Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))**.  
 
 El archivo `008 Libreria PIL .ipynb` contiene ejercicios prácticos y explicaciones teóricas sobre los siguientes temaa:
 Introducción a la biblioteca PIL (Pillow) para cargar, guardar y manipular imágenes. Incluye lectura de archivos, conversión de formatos y transformaciones simples como rotación, cambio de tamaño y recorte. Interpolación.

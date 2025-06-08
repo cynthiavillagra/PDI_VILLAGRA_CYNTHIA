@@ -9,7 +9,7 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 
 **Alumno/a:** Cynthia Marcela Villagra  
 **Materia:** Técnicas de Procesamiento Digital de Imágenes  
-**Profesor:** Matías Barreto
+**Profesor:** Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 **Breve Descripción:**
 Se introduce la herramienta Gradio para la creación rápida de interfaces web interactivas para modelos de procesamiento de imágenes. Se desarrollan ejemplos prácticos de despliegue de modelos y visualización de resultados en la web.

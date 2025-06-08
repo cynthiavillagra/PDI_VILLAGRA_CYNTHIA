@@ -1,21 +1,25 @@
 
 
-Bajada Descriptiva: En este TP se exploró la captura y análisis del movimiento mediante cronofotografía digital, descomponiendo el desplazamiento de un objeto en imágenes discretas para su observación y estudio teórico. Se abordaron conceptos como muestreo temporal y análisis visual del movimiento.
-Enlace: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/tree/main/002%20Movimiento
+# Descripción del contenido de la carpeta
+En este TP se exploró la captura y análisis del movimiento mediante cronofotografía digital, descomponiendo el desplazamiento de un objeto en imágenes discretas para su observación y estudio teórico. Se abordaron conceptos como muestreo temporal y análisis visual del movimiento.
+
+Enlace a la carpeta: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/tree/main/002%20Movimiento
+
+Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 ## 👤 Autoría
 
 - Autor/a: Cynthia Villagra
 - Año: 2025  
 - Materia: Técnicas de Procesamiento de Imágenes  
-- Profesor: Matías Barreto  
+- Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
 - Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
 
 ---
 
 # 002 - Movimiento: Cronofotografía Digital
 
-Este proyecto corresponde a la segunda actividad de la materia **Técnicas de Procesamiento de Imágenes**, dictada por **Matías Barreto** en el IFTS N.º 24. El objetivo fue capturar el **movimiento de un objeto** a través de una secuencia de imágenes y reflexionar sobre su análisis visual y conceptual.
+Este proyecto corresponde a la segunda actividad de la materia **Técnicas de Procesamiento de Imágenes**, dictada por **Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))** en el IFTS N.º 24. El objetivo fue capturar el **movimiento de un objeto** a través de una secuencia de imágenes y reflexionar sobre su análisis visual y conceptual.
 
 ---
 

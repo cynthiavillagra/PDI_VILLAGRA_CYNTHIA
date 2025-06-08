@@ -9,7 +9,7 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 
 **Alumno/a:** Cynthia Marcela Villagra  
 **Materia:** Técnicas de Procesamiento Digital de Imágenes  
-**Profesor:** Matías Barreto
+**Profesor:** Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 **Breve Descripción:**
 Uso de Google Colab para capturar imágenes desde la webcam y procesarlas en tiempo real. Se experimenta con la adquisición, visualización y análisis de imágenes directamente desde el navegador.

@@ -2,7 +2,7 @@
 # Descripción del contenido de la carpeta
 Este TP aborda el recorrido de la luz desde el objeto hasta convertirse en imagen digital, analizando la representación y procesamiento en distintas librerías de Python.
 
-Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/012%20TPI%20-%20Exposicion%20oral%20integradora/Exposicion%20oral.ipynb
+Enlace al notebook principal: https://github.com/cynthiavillagra/IFTS24_PDI/blob/main/012%20TPI%20-%20Exposicion%20oral%20integradora/Exposicion%20oral.ipynb
 
 Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
@@ -11,7 +11,7 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 - Autor/a: Cynthia Villagra
 - Año: 2025  
 - Materia: Técnicas de Procesamiento de Imágenes  
-- Profesor: Matías Barreto  
+- Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
 - Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
 
 ---

@@ -1,7 +1,7 @@
 # Descripción del contenido de la carpeta
 En este TP se trabajó sobre los conceptos de muestreo y cuantización en imágenes digitales, analizando cómo la resolución y la profundidad de bits afectan la calidad visual y la información de la imagen.
 
-Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/006%20Muestreo%20y%20cuantizacion/006%20Muestreo_y_Cuantización.ipynb
+Enlace al notebook principal: https://github.com/cynthiavillagra/IFTS24_PDI/blob/main/006%20Muestreo%20y%20cuantizacion/006%20Muestreo_y_Cuantización.ipynb
 
 Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
@@ -10,14 +10,14 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 - Autor/a: Cynthia Villagra
 - Año: 2025  
 - Materia: Técnicas de Procesamiento de Imágenes  
-- Profesor: Matías Barreto  
+- Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
 - Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
 
 ---
 
 # 006 Muestreo y Cuantización
 
-Este notebook forma parte de la materia **Técnicas de Procesamiento de Imágenes** (IFTS N.º 24 – 2025), dictada por el profesor **Matías Barreto**.  
+Este notebook forma parte de la materia **Técnicas de Procesamiento de Imágenes** (IFTS N.º 24 – 2025), dictada por el profesor **Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))**.  
 
 El archivo `006 Muestreo_y_Cuantización.ipynb` contiene ejercicios prácticos y explicaciones teóricas sobre los temas: Aplicación de muestreo espacial (reducción de resolución) y cuantización (reducción de niveles de intensidad). Se estudia el efecto de estas operaciones sobre la calidad visual y la compresión de imágenes.
 

@@ -1,7 +1,7 @@
 # Descripción del contenido de la carpeta
 En este TP se exploraron técnicas de segmentación simple para separar objetos del fondo en imágenes digitales, utilizando umbralización y análisis de componentes conectados.
 
-Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/007%20Segmentacion%20simple/007%20Segmentacion_simple.ipynb
+Enlace al notebook principal: https://github.com/cynthiavillagra/IFTS24_PDI/blob/main/007%20Segmentacion%20simple/007%20Segmentacion_simple.ipynb
 
 Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
@@ -10,14 +10,14 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 - Autor/a: Cynthia Villagra
 - Año: 2025  
 - Materia: Técnicas de Procesamiento de Imágenes  
-- Profesor: Matías Barreto  
+- Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
 - Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
 
 ---
 
 # 007 Segmentacion simple
 
-Este notebook forma parte de la materia **Técnicas de Procesamiento de Imágenes** (IFTS N.º 24 – 2025), dictada por el profesor **Matías Barreto**.  
+Este notebook forma parte de la materia **Técnicas de Procesamiento de Imágenes** (IFTS N.º 24 – 2025), dictada por el profesor **Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))**.  
 
 El archivo `007 Segmentacion_simple.ipynb` contiene ejercicios prácticos y explicaciones teóricas sobre el tema:
 Implementación de técnicas básicas de segmentación por umbral fijo o automático. Separación de objetos de fondo, creación de máscaras binarias, y visualización de regiones segmentadas en imágenes.

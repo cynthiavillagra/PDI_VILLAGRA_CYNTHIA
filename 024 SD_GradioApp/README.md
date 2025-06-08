@@ -1,7 +1,7 @@
 # Descripción del contenido de la carpeta
 En este TP se creó una aplicación interactiva basada en Gradio para experimentar con modelos de difusión y generación de imágenes.
 
-Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/024%20SD_GradioApp/024%20SD_GradioApp.ipynb
+Enlace al notebook principal: https://github.com/cynthiavillagra/IFTS24_PDI/blob/main/024%20SD_GradioApp/024%20SD_GradioApp.ipynb
 
 Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
@@ -9,7 +9,7 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 
 **Alumno/a:** Cynthia Marcela Villagra  
 **Materia:** Técnicas de Procesamiento Digital de Imágenes  
-**Profesor:** Matías Barreto
+**Profesor:** Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 **Breve Descripción:**
 Desarrollo de una aplicación interactiva basada en Gradio para la generación de imágenes mediante Stable Diffusion. Se explora el despliegue de modelos generativos en la web y la personalización de la experiencia del usuario.

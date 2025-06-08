@@ -1,7 +1,7 @@
 # Descripción del contenido de la carpeta
 En este TP se utilizaron las librerías scikit-image y scipy para aplicar filtros, transformaciones y análisis en imágenes, incluyendo rotación, detección de bordes y zoom.
 
-Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/009%20Librerias%20Scikit-image%20y%20Scipy/09%20Scikit%20image%20y%20Spicy.ipynb
+Enlace al notebook principal: https://github.com/cynthiavillagra/IFTS24_PDI/blob/main/009%20Librerias%20Scikit-image%20y%20Scipy/09%20Scikit%20image%20y%20Spicy.ipynb
 
 Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
@@ -10,14 +10,14 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 - Autor/a: Cynthia Villagra
 - Año: 2025  
 - Materia: Técnicas de Procesamiento de Imágenes  
-- Profesor: Matías Barreto  
+- Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
 - Carrera: Ciencia de Datos e Inteligencia Artificial – IFTS 24
 
 ---
 
 # 009 Scikit-image y Scipy
 
-Este notebook forma parte de la materia **Técnicas de Procesamiento de Imágenes** (IFTS N.º 24 – 2025), dictada por el profesor **Matías Barreto**.  
+Este notebook forma parte de la materia **Técnicas de Procesamiento de Imágenes** (IFTS N.º 24 – 2025), dictada por el profesor **Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))**.  
 
 El archivo `009 Scikit-image y Scipy.ipynb` contiene ejercicios prácticos y explicaciones teóricas. Fue enriquecido con comentarios, ejemplos y teoría obtenida con la ayuda de **ChatGPT** y bibliografía de libre acceso.
 

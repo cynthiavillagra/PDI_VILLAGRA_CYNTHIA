@@ -1,7 +1,7 @@
 
 ## 📚 Créditos
 - Alumna: Cynthia Marcela Villagra
-- Docente: Prof. Matías Barreto  
+- Docente: Prof. Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))  
 - Materia: Técnicas de Procesamiento Digital de Imágenes  
 - Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial  
 - Instituto: IFTS N° 24 - CABA
@@ -89,4 +89,4 @@ Cada carpeta corresponde a una clase o unidad temática trabajada durante el cur
 
 ## 🔗 Enlace al repositorio
 
-[https://github.com/cynthiavillagra/IFTS24_PDI](https://github.com/cynthiavillagra/IFTS24_PDI)
+[https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA](https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA)

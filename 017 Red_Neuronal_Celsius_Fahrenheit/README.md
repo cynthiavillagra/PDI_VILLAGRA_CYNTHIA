@@ -1,7 +1,7 @@
 # Descripción del contenido de la carpeta
 En este TP se desarrolló una red neuronal simple para convertir valores de temperatura entre Celsius y Fahrenheit, aplicando conceptos básicos de machine learning.
 
-Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/017%20Red_Neuronal_Celsius_Fahrenheit/017%20Red_Neuronal_Celsius_Fahrenheit.ipynb
+Enlace al notebook principal: https://github.com/cynthiavillagra/IFTS24_PDI/blob/main/017%20Red_Neuronal_Celsius_Fahrenheit/017%20Red_Neuronal_Celsius_Fahrenheit.ipynb
 
 Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
@@ -9,7 +9,7 @@ Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto
 
 **Alumno/a:** Cynthia Marcela Villagra  
 **Materia:** Técnicas de Procesamiento Digital de Imágenes  
-**Profesor:** Matías Barreto
+**Profesor:** Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 **Breve Descripción:**
 Se implementa una red neuronal simple para aprender la conversión entre grados Celsius y Fahrenheit. Este ejercicio introduce los conceptos básicos de redes neuronales y su entrenamiento con datos tabulares.
