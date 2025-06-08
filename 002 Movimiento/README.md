@@ -1,5 +1,8 @@
 
 
+Bajada Descriptiva: En este TP se exploró la captura y análisis del movimiento mediante cronofotografía digital, descomponiendo el desplazamiento de un objeto en imágenes discretas para su observación y estudio teórico. Se abordaron conceptos como muestreo temporal y análisis visual del movimiento.
+Enlace: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/tree/main/002%20Movimiento
+
 ## 👤 Autoría
 
 - Autor/a: Cynthia Villagra

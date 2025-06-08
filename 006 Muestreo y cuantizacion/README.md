@@ -1,3 +1,9 @@
+# Descripción del contenido de la carpeta
+En este TP se trabajó sobre los conceptos de muestreo y cuantización en imágenes digitales, analizando cómo la resolución y la profundidad de bits afectan la calidad visual y la información de la imagen.
+
+Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/006%20Muestreo%20y%20cuantizacion/006%20Muestreo_y_Cuantización.ipynb
+
+Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 ## 👤 Autoría
 

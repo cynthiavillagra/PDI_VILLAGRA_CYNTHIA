@@ -1,3 +1,5 @@
+Bajada Descriptiva: En este TP se trabajó con recorte, detección de bordes, desenfoque gaussiano y conversión a escala de grises. Se analizaron técnicas fundamentales para el procesamiento y segmentación de imágenes.
+Enlace: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/003%20Recorte%20-%20Deteccion%20de%20bordes%20-%20Desenfoque%20Gaussiano%20-%20Escala%20de%20grises/003%20Monedas.ipynb
 
 ## 👤 Autoría
 

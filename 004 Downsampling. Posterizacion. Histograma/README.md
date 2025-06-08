@@ -1,3 +1,9 @@
+# Descripción del contenido de la carpeta
+En este TP se exploraron técnicas de downsampling, posterización y análisis de histogramas en imágenes digitales. El objetivo fue comprender cómo afectan estos procesos a la calidad y representación de la información visual.
+
+Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/004%20Downsampling.%20Posterizacion.%20Histograma/004%20Mandril.ipynb
+
+Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 ## 👤 Autoría
 

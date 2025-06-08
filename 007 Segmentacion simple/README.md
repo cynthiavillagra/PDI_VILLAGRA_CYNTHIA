@@ -1,3 +1,9 @@
+# Descripción del contenido de la carpeta
+En este TP se exploraron técnicas de segmentación simple para separar objetos del fondo en imágenes digitales, utilizando umbralización y análisis de componentes conectados.
+
+Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/007%20Segmentacion%20simple/007%20Segmentacion_simple.ipynb
+
+Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 ## 👤 Autoría
 

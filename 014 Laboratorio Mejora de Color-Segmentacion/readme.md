@@ -1,3 +1,10 @@
+# Descripción del contenido de la carpeta
+En este TP integrador se aplican técnicas de mejora de brillo y contraste, ecualización de histograma, segmentación por color y detección de objetos sobre imágenes reales.
+
+Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/014%20Laboratorio%20Mejora%20de%20Color-Segmentacion/14_LAB_Integrador_2_clean.ipynb
+
+Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
+
 ## 📚 Créditos
 - Alumna: Cynthia Marcela Villagra
 - Docente: Prof. Matías Barreto  

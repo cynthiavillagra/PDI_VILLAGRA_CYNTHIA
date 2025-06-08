@@ -1,3 +1,9 @@
+# Descripción del contenido de la carpeta
+En este TP se introdujo la biblioteca PIL (Pillow) para la manipulación básica de imágenes: lectura, guardado, cambio de formato, rotación, cambio de tamaño, recorte e interpolación.
+
+Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/008%20Libreria%20PIL%20-%20Interpolacion/09_001_img_uno_comentado_con_teoria.ipynb
+
+Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 ## 👤 Autoría
 

@@ -1,3 +1,9 @@
+# Descripción del contenido de la carpeta
+En este TP se utilizaron las librerías scikit-image y scipy para aplicar filtros, transformaciones y análisis en imágenes, incluyendo rotación, detección de bordes y zoom.
+
+Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/009%20Librerias%20Scikit-image%20y%20Scipy/09%20Scikit%20image%20y%20Spicy.ipynb
+
+Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 ## 👤 Autoría
 

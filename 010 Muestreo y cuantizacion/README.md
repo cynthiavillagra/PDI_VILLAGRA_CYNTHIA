@@ -1,3 +1,9 @@
+# Descripción del contenido de la carpeta
+En este TP se profundizó en muestreo y cuantización, analizando cómo la reducción de resolución y niveles de gris afecta la compresión y percepción visual de las imágenes.
+
+Enlace al notebook principal: https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/blob/main/010%20Muestreo%20y%20cuantizacion/010%20Muestreo%20y%20cuantizacion%20scikit%20image.ipynb
+
+Profesor: Matías Barreto (GitHub: [@mattbarreto](https://github.com/mattbarreto))
 
 ## 👤 Autoría
 
