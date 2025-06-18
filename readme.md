@@ -70,7 +70,7 @@ Cada carpeta corresponde a una clase, unidad temática o proyecto trabajado dura
 | 024 SD_GradioApp | [Ver](https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/tree/main/024%20SD_GradioApp) | Generación de imágenes con Stable Diffusion en una app interactiva Gradio. |
 | 024 webcam_colab | [Ver](https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/tree/main/024%20webcam_colab) | Captura y procesamiento de imágenes desde webcam en Google Colab. |
 | 026 Img Caption | [Ver](https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/tree/main/026%20Img%20Caption) | Captioning automático de imágenes. |
-| 027 (pendiente) | [Ver](https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/tree/main/027%20(pendiente)) | Carpeta reservada para futuras prácticas. |
+| 027 Gobernanza | [Ver](https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/tree/main/027%20Gobernanza) | Gobernanza en inteligencia artificial: ética, regulación y buenas prácticas. |
 | 029 TPI Final de Curso | [Ver](https://github.com/cynthiavillagra/PDI_VILLAGRA_CYNTHIA/tree/main/029%20TPI%20Final%20de%20Curso) | Proyecto final del curso. |
 
 
